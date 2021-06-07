@@ -1,6 +1,6 @@
 import React from "react";
 import Cards from "./Cards";
-import "../App.css";
+import "../TimeTable.css";
 
 const Column = ({ data }) => {
   return (
