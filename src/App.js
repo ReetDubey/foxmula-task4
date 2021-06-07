@@ -7,6 +7,7 @@ import "./index.css";
 
 function App() {
   return (
+      <div className="ucard">
     <Fragment>
       <div className='content__wrapper d-grid'>
         <CardOne />
@@ -14,6 +15,7 @@ function App() {
 		<TimeTable />
       </div>
     </Fragment>
+	</div>
   );
 }
 
